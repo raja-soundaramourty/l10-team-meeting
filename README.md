@@ -1,6 +1,5 @@
----
 
-**Level 10 Meeting Template**
+# Level 10 Meeting Template**
 
 **Date:**
 **Time:**
