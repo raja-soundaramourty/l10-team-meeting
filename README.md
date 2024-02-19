@@ -1,79 +1,102 @@
-# L10 meeting
+```markdown
+# Team Operating Model
 
-An L10 meeting, also known as a Level 10 Meeting, is a concept derived from the Entrepreneurial Operating System (EOS), which is a set of simple concepts and practical tools used by many companies to clarify, simplify, and achieve their vision. 
+## Introduction
 
-The L10 meeting is a structured, bi-weekly team meeting designed to keep everyone on the same page, foster team health, and maintain focus on the most important priorities. The "10" in the name refers to the goal of making the meeting so productive and essential that participants would consistently rate it a 10 on a 10-point scale.
+Our team operating model is rooted in the principle of aligning actions with purpose, ensuring that every team member works in harmony towards common goals. It is crafted to foster a culture of collaboration, transparency, and accountability. By integrating our organizational values and goals into our team operating model, we enable effective and efficient teamwork, driving forward initiatives that resonate with our ethos of purposeful action.
 
-The key components of a Level 10 Meeting are:
+## Overview
 
-1. **Segue (5 minutes)**: Team members share the good news to start the meeting on a positive note.
-   
-2. **Scorecard Review (5 minutes)**: Review a set of 5 to 15 leading indicators that give a quick pulse on the health of the business.
+The framework outlines a structured approach to meetings and communication for a geographically distributed remote team, aimed at boosting efficiency and effectiveness. Through a variety of meeting types, each serving a distinct purpose, we cultivate an environment where teams can unite in their efforts, navigate challenges with agility, and propel initiatives in alignment with our culture of “Align and Act on Purpose.”
 
-3. **Rock Review (5 minutes)**: Checking the status of the big priorities for the quarter (Rocks).
+### Meeting Types and Formats
 
-4. **Customer/Employee Headlines (5 minutes)**: Sharing brief updates or news about customers and employees.
+| **Meeting Type** | **Frequency**   | **Participants**      | **Tools**      |
+|------------------|-----------------|-----------------------|----------------|
+| Sync-Up          | Weekly          | Direct reports        | Teamspace      |
+| One-on-One       | Bi-Weekly       | Direct Reports        | Webex          |
+|                  |                 |                       | SharePoint     |
+| Staff Meetings   | Bi-Weekly       | All Staff members     | Webex          |
+|                  |                 |                       | SharePoint     |
+|                  |                 |                       | Github         |
+| Deep Dives       | Bi-Weekly       | Project Teams         | Webex          |
+|                  |                 |                       | Confluence     |
+|                  |                 |                       | SharePoint     |
+|                  |                 |                       | GitHub         |
+| Town Hall        | Monthly         | All Team Members      | WebEx          |
+|                  |                 |                       | Confluence     |
+|                  |                 |                       | SharePoint     |
 
-5. **To-Do List (5 minutes)**: Review the to-do list from the previous meeting to ensure accountability.
+*Note: Deep Dives & Town Halls are open to Non-Full Time Employees.*
 
-6. **Issues List - IDS (60 minutes)**: Identifying, discussing, and solving the most pressing issues.
+### Detailed Meeting Guidelines
 
-7. **Conclude (5 minutes)**: Review the meeting’s action items and takeaways, and rating the meeting to ensure continuous improvement.
+#### 1. Weekly Sync-Up via Teamspace Offline
 
-The structure is designed to maximize efficiency, address issues promptly, and maintain a rhythm that keeps everyone aligned with the company’s long-term goals and immediate priorities.
+**Purpose**: These check-ins provide consistent support and insight into team performance, clarifying priorities, and fostering a culture of continuous feedback.
 
+**Participants**: Full-time employees (FTEs) only.
 
-## Level 10 Meeting Template
+**Guidelines**:
+- **Weekly Submissions on Teamspace**: FTEs submit their weekly updates every Friday.
+- **Leader Review and Follow-Up**: Leaders review submissions by Monday and follow up accordingly.
+- **Reference Resources**: Cisco TeamSpace Essentials offers resources and best practices for effective communication.
 
-* Date:
-* Time:
-* Location:**
+#### 2. Bi-Weekly Sync-Ups (1:1)
 
-**Attendees:**
+**Purpose**: Facilitate private discussions on feedback, personal development, and career progression.
 
----
+**Participants**:
+- **Leader**: Prepares feedback.
+- **Direct Reports (Individual Contributors)**: Schedule meetings and engage in open dialogue.
 
-**I. Segue (5 minutes)**
-- Each member shares a personal and professional win from the past week.
+**Guidelines**:
+- **Scheduling and Cadence**: Hold 30-minute meetings every two weeks.
+- **Preparation**: Use a shared document for agenda and action items.
+- **Health Checks**: Ask monthly or quarterly "scale of 1 to 10" questions.
+- **Discussion Topics**: Cover various aspects of work and personal development.
+- **Feedback and Development**: Exchange feedback and discuss career paths.
+- **Action Items and Accountability**: Summarize discussion points and follow-up actions.
 
-**II. Scorecard Review (5 minutes)**
-- Review key metrics and numbers.
-- Identify any off-track items for the Issues List.
+### L10 Staff Meeting
 
-**III. Rock Review (5 minutes)**
-- Quick update on each Rock to ensure they are on track.
-- Off-track Rocks go to the Issues List.
+#### Purpose
 
-**IV. Customer/Employee Headlines (5 minutes)**
-- Briefly share significant updates on customers and staff.
+The L10 meeting aims to ensure all team members are aligned, engaged, and focused on the most critical aspects of their work, thereby enhancing team cohesion and productivity.
 
-**V. To-Do List (5 minutes)**
-- Review last week’s To-Dos to confirm they are done.
-- Unfinished To-Dos move to the Issues List.
+#### Participants
 
-**VI. Issues List (IDS - Identify, Discuss, Solve) (60 minutes)**
-- Prioritize the list.
-- Discuss each issue in order of priority, solve it, and assign To-Dos.
+- **All Staff Members**: All Staff members of the leadership team.
 
-**VII. Conclude (5 minutes)**
-- Recap the meeting To-Dos and who is responsible for each.
-- Share any cascading messages that need to be communicated to the team.
-- Rate the meeting (1-10 scale).
+#### Guidelines
 
----
+1. **Segue (5 minutes)**: Begin with positive personal or professional news to set a positive tone.
+2. **Scorecard Review (5 minutes)**: Quickly assess the business's health through key indicators.
+3. **Rock Review (5 minutes)**: Update on the quarter's main goals to ensure progress is on track.
+4. **Customer/Employee Headlines (5 minutes)**: Share important updates affecting stakeholders.
+5. **To-Do List (5 minutes)**: Review and account for the action items assigned in the previous meeting.
+6. **Issues List - IDS (60 minutes)**: Focus on identifying, discussing, and solving key issues impacting the team or projects.
+7. **Conclude (5 minutes)**: Recap the meeting with action items, responsibilities, and rate the meeting's effectiveness to aim for continuous improvement.
 
-**Notes:**
-- The meeting should start on time and end on time.
-- Stay on topic; tangents should be moved to the Issues List.
-- Everyone should contribute and be engaged.
+#### Deep Dives Meeting
 
-**Preparation:**
-- Review the agenda and come prepared with updates on your To-Dos, Rocks, and Scorecard items.
-- Add any new issues to the Issues List before the meeting.
+**Purpose**: 
+The purpose of Deep Dives meetings is to offer a comprehensive 360-degree view of the team's initiatives, ensuring everyone understands the current priorities and how these align with the team's broader objectives. These meetings enable focused discussions on technical topics, facilitating a deeper understanding and alignment with team priorities. Additionally, documenting decisions made during these discussions ensures clarity, accountability, and alignment moving forward.
 
-**Follow-Up:**
-- To-Dos should be completed within the week.
-- Issues that were not addressed should be added to next week’s Issues List.
-- Meeting ratings should be discussed every quarter to ensure meetings are effective.
+**Participants**:
+- **Group Leader**: Oversees the meeting, ensuring all topics are covered.
+- **Initiative Leader**: Provides updates on specific initiatives.
+- **Team Members** (Both FTEs and Non-FTEs): Participate in discussions, providing insights and updates on their respective areas of work.
 
----
+**Guidelines**:
+- **Status Updates**: Present detailed updates on ongoing projects, including technical challenges and progress.
+  - **Stories**: Examine the specifics of ongoing tasks.
+  - **Owner**: Identify who is responsible for each task.
+  - **ETA**: Share the expected time of completion for tasks.
+  - **Status**: Discuss the current progress of the tasks.
+- **Dashboard Review for Data Led Decision Making**: Focus on understanding and utilizing data for informed decision-making.
+- **Discussion Topics**: Deep dive into technical issues, project roadblocks, and strategic approaches to solutions.
+- **Decisions**: Document and disseminate decisions made during the meeting to ensure alignment and facilitate action.
+- **Action Items and Accountability**: Conclude with a summary of the discussion, outlining action items, responsible parties, and deadlines.
+
+These Deep Dives are crucial for ensuring all team members, including both FTEs and Non-FTEs, are aligned on the team's priorities, understand the current status of projects, and are focused on the most critical and impactful tasks at hand. The addition of documenting decisions enhances the meeting's effectiveness by ensuring clear communication and follow-through on agreed-upon
