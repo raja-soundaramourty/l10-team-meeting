@@ -28,13 +28,6 @@ The framework outlines a structured approach to meetings and communication for a
 
 *Note: Deep Dives & Town Halls are open to Non-Full Time Employees.*
 
-* [SharePoint Link](https://cisco.sharepoint.com/sites/Applications_And_Platforms/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FApplications%5FAnd%5FPlatforms%2FShared%20Documents%2F03%20%2D%20Project%20Information%2F00%2E%20SRE%2DDevOps%2DDevSecOps&viewid=374e9396%2D331c%2D4087%2Da512%2Decb38af12fa6)
-
-* [Confluence Link](https://learning-confluence.cisco.com/confluence/display/MW1/02+-+SRE%2C+DevOps%2C+DevSecOps)
-
-* [GitHub Link](https://github.com/cx-learning-platform)
-
-
 ### Detailed Meeting Guidelines
 
 #### 1. Weekly Sync-Up via Teamspace Offline
