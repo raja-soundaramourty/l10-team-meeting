@@ -1,9 +1,9 @@
 
 # Level 10 Meeting Template
 
-**Date:**
-**Time:**
-**Location:**
+* Date:
+* Time:
+* Location:**
 
 **Attendees:**
 
